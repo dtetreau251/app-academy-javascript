@@ -11,4 +11,4 @@ function soundMaker(sound, times) {
   }
 }
 
-soundMaker("woof", 5);
+soundMaker("woof", 1);
